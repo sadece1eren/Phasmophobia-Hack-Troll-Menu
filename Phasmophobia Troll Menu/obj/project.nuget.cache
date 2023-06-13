@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8X8diEVftC9TF4Xs9g+RLu6fqPNlpIk+aTGgRMPl1VGdsAaw5d4WWaj81t4i0k3+bR0NPFDl8XIr/n7dk10hlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eren_\\source\\repos\\Phasmophobia Troll Menu\\Phasmophobia Troll Menu\\Phasmophobia Troll Menu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eren_\\.nuget\\packages\\memory.dll.x64\\1.2.24\\memory.dll.x64.1.2.24.nupkg.sha512",
+    "C:\\Users\\eren_\\.nuget\\packages\\swed64\\1.0.5\\swed64.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
